@@ -5,8 +5,16 @@
 	flex-flow: row wrap;
 }
 
-
 .nav {
 	-webkit-justify-content: space-between;
 	justify-content: space-between;
+}
+
+.nav a {
+  width: 23%;
+}
+
+.boxes div {
+  -webkit-flex: 1 1 250px;
+  flex: 1 1 250px;
 }
