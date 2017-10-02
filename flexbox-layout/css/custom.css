@@ -1,0 +1,12 @@
+.nav, .boxes, .footer {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+
+
+.nav {
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+}
