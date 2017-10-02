@@ -52,4 +52,9 @@
 	.nav{
 		flex-flow: column;
 	}
+
+	.nav a {
+        width: 100%;
+        margin-bottom: 2px;
+	}
 }
